@@ -1,2 +1,2 @@
 # leetcode-hackerrank-gfg-solutions
-All solutions that I practised 
+This repository contains my solutions to various Data Structures and Algorithms problems from platforms like LeetCode, HackerRank, and GeeksforGeeks, primarily in Python
